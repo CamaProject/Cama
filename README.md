@@ -6,3 +6,10 @@ Domain of the website is [camaafrica.org] (http://camaafrica.org) but it's also 
 
 ##More project ideas?
 Other projects may include the creation of a mini-social network for the members of the College Admissions Mentors for Africa (CAMA) network. This of course will be hosted on a  more powerful cloud service like heroku or google app engine
+
+
+Requirements and tools:
+
+1. Git and Github
+2. GoDaddy
+3. Heroku
