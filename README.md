@@ -13,3 +13,4 @@ Requirements and tools:
 1. Git and Github
 2. GoDaddy
 3. Heroku
+4. WordPress
